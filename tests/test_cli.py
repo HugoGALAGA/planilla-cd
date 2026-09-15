@@ -1,8 +1,6 @@
 # tests/test_cli.py
 """Suite de tests para planilla.cli."""
 
-import pytest
-
 from planilla.cli import main, parse_args
 
 
